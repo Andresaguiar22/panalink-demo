@@ -39,4 +39,4 @@ Kotlin · Jetpack Compose · Material 3 · Room · WorkManager · ExoPlayer · L
 
 ## 📄 Licencia
 
-**Solo demo.** Todos los derechos reservados por el mantenedor. Este código se publica para **evaluación y portafolio**— no se conceden derechos de uso, copia ni distribución fuera de lo permitido por escrito. Para colaborar en el proyecto real, abrí un issue indicando tu interés y seguí el [CONTRIBUTING.md](CONTRIBUTING.md) del repositorio privado.
+**Solo demo.** Todos los derechos reservados por el mantenedor. Este código se publica para **evaluación y portafolio**— no se conceden derechos de uso, copia ni distribución fuera de lo permitido por escrito. Para colaborar en el proyecto real, abrí un issue indicando tu interés (se evalúa caso a caso y firmando un CLA de cesión de derechos).
