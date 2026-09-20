@@ -1,0 +1,39 @@
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.env
+debug.keystore
+# Demonstración pública: el google-services.json DE LA DEMO se commitear a propósito
+# (contiene solo placeholders; si cambiaras el applicationId, actualizalo o elimínalo).
+!app/google-services.json
+*.jks
+*.keystore
+*.base64
+secrets.properties
+secrets.defaults.properties
+!secrets.defaults.properties
+!app/secrets.defaults.properties
+server/PanalinkStorage/*
+
+
+# Toolchain local generado por scripts/setup_toolchain.sh
+.toolchain/
+.gradle-home/
+
+# APKs beta generados localmente (dist/)
+dist/
+app/build/
